@@ -11,3 +11,5 @@ print('hello')
 
 print("hello_from_brandt")
 print("hello_from_bo")
+print("hello_from_chris")
+print("Whaddup, it's Diante!")
