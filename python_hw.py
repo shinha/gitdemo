@@ -10,3 +10,7 @@ is_consecutive([1,2,3,5,4])
 print('hello')
 
 print("hello_from_brandt")
+
+Print("Enjoy your time!")
+
+print("aqui estoy y ya me voy.")
