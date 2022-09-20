@@ -8,5 +8,5 @@ def is_consecutive(a_list):
 print('hi')
 is_consecutive([1,2,3,5,4])
 print('hello')
-
+print("what's up?")
 print("hello_from_brandt")
